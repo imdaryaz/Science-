@@ -13,7 +13,7 @@
     }
 
     .background {
-      background: url('главная.avif') no-repeat center center fixed;
+      background: url('https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/40/2021/09/1319693870344639254_1319693870344639254-768x400.jpg') no-repeat center center fixed;
       background-size: cover;
       height: 100%;
       position: relative;
@@ -67,9 +67,9 @@
       <p>На данном сайте вы найдете материал, который будет очень полезен для одиннадцатиклассников, так как учащиеся изучают данный материал в рамках школьных уроков, а также найдете интересные факты для себя по следующим предметам:</p>
       <ul>
         <li><a href="astronomy.html" target="_blank">Физика</a></li>
-        <li><a href="file:///C:/Users/User/Desktop/biology.html" target="_blank">Биология</a></li>
-        <li><a href="file:///C:/Users/User/Desktop/chemistry.html" target="_blank">Химия</a></li>
-        <li><a href="file:///C:/Users/User/Desktop/geography.html" target="_blank">География</a></li> 
+        <li><a href="biology.html" target="_blank">Биология</a></li>
+        <li><a href="chemistry.html" target="_blank">Химия</a></li>
+        <li><a href="geography.html" target="_blank">География</a></li> 
       </ul>
     </div>
   </div>
