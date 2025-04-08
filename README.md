@@ -67,7 +67,7 @@
       <p>На данном сайте вы найдете материал, который будет очень полезен для одиннадцатиклассников, так как учащиеся изучают данный материал в рамках школьных уроков, а также найдете интересные факты для себя по следующим предметам:</p>
       <ul>
         <li><a href="astronomy.html" target="_blank">Физика</a></li>
-        <li><a href="ecology_pyramids.html" target="_blank">Экология</a></li>
+        <li><a href="ecology_pyramids.html" target="_blank">Биология</a></li>
         <li><a href="metals.html" target="_blank">Химия</a></li>
         <li><a href="geography.html" target="_blank">География</a></li> 
       </ul>
