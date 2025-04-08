@@ -69,7 +69,7 @@
         <li><a href="astronomy.html" target="_blank">Физика</a></li>
         <li><a href="file:///C:/Users/User/Desktop/biology.html" target="_blank">Биология</a></li>
         <li><a href="file:///C:/Users/User/Desktop/chemistry.html" target="_blank">Химия</a></li>
-        <li><a href="file:///C:/Users/User/Desktop/geography.html" target="_blank">География</a></li> <!-- Обновлено -->
+        <li><a href="file:///C:/Users/User/Desktop/geography.html" target="_blank">География</a></li> 
       </ul>
     </div>
   </div>
